@@ -1,2 +1,2 @@
-# ActiveSlam
+# Active Slam
 RL term project
